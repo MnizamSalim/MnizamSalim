@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MnizamSalim
+- 👋 Hi, I’m nizamSalim
 - 👀 I’m interested in ... Web development 
 - 🌱 I’m currently learning ...Coding
 - 💞️ I’m looking to collaborate on ...
